@@ -9,5 +9,3 @@ This project builds a convolutional neural network (CNN) using TensorFlow to cla
 - TensorFlow
 - Keras
 - Matplotlib
-
-🌸 A simple flower image classifier built with TensorFlow and CNNs, trained on the official Flowers dataset.
